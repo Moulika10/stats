@@ -9,3 +9,7 @@
 ## Type Definition Files
 
     i. Anything inside node standard library --> npm install @types/node
+
+## Run the Project
+
+    npm start
